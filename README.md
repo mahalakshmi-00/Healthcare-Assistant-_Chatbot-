@@ -56,7 +56,8 @@ cd Healthcare-Assistant-_Chatbot-
 pip install -r requirements.txt
 
 4.**Run the chatbot**:
-streamlit run chatbot.py
+streamlit run app.py
+
 
 
 
