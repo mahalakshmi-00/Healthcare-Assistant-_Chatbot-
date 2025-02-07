@@ -1,4 +1,4 @@
-﻿# Healthcare Assistant Chatbot
+# Healthcare Assistant Chatbot
 
 The **Healthcare Assistant Chatbot** is developed to assist healthcare organizations, clinics, and telemedicine platforms by managing basic patient inquiries without direct human intervention. This chatbot addresses the manual handling of repetitive general inquiries, which often delays healthcare providers' availability for critical cases. Users also require immediate answers for minor health concerns and first aid tips, which are challenging to obtain promptly.
 
@@ -27,34 +27,36 @@ The chatbot effectively addresses user inquiries, providing accurate and timely 
 
 The **Healthcare Assistant Chatbot** offers an effective solution for managing basic healthcare inquiries. By automating repetitive tasks, it enhances the efficiency of healthcare providers and ensures that users receive prompt and valuable health information. This project showcases the potential of **AI** and **machine learning** in improving healthcare delivery and accessibility.
 
+## Usage
+
+Type your health-related questions into the chatbot. Example inputs:
+- "What is a healthy diet?"
+- "How can I manage stress?"
+- "What should I do for a burn?"
+
+## Contributing
+
+Feel free to fork the repository, make improvements, and submit pull requests. Please follow the coding style and include any necessary tests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Installation
 
 1. Clone the repository:
    ```bash
-
    git clone https://github.com/mahalakshmi-00/Healthcare-Assistant-_Chatbot-.git
-
 2.Navigate to the project folder:
 ```bash
-
 cd Healthcare-Assistant-_Chatbot-
 
-3.Install dependencies:
-```bash
+3.**Install dependencies**: Install the required Python packages using the following command:
 pip install -r requirements.txt
 
-4.Run the chatbot:
+4.**Run the chatbot**:
 streamlit run chatbot.py
 
-Usage
-Type your health-related questions into the chatbot. Example inputs:
 
-"What is a healthy diet?"
-"How can I manage stress?"
-"What should I do for a burn?"
-Contributing
-Feel free to fork the repository, make improvements, and submit pull requests. Please follow the coding style and include any necessary tests.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
