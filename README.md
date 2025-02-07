@@ -41,9 +41,20 @@ cd Healthcare-Assistant-_Chatbot-
 
 3.Install dependencies:
 ```bash
-
 pip install -r requirements.txt
 
 4.Run the chatbot:
 streamlit run chatbot.py
+
+Usage
+Type your health-related questions into the chatbot. Example inputs:
+
+"What is a healthy diet?"
+"How can I manage stress?"
+"What should I do for a burn?"
+Contributing
+Feel free to fork the repository, make improvements, and submit pull requests. Please follow the coding style and include any necessary tests.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
